@@ -1,5 +1,5 @@
 
-# "Pixum" landing page
+# "Picsum" landing page
 
 This assignment is about creating an html file using "picsum" photos and practising html semantic elements 
 
