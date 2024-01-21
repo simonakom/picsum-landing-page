@@ -5,3 +5,4 @@ This assignment is about creating a html file using "picsum" photos and practisi
 
 <h4>🔹 Wikipedia page sample - <a href="https://simonakom.github.io/picsum-landing-page/picsum-page.html" style="font-size:small;">View</a><h4>
 
+
